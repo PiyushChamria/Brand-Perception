@@ -1,0 +1,15 @@
+Insights
+Around 80% of people believe Brand A snacks are made with Farm Grown Ingredients which is a positive sign for Brand A as this makes people think Brand A is health conscious.
+Only 32% Customers believe BRAND A Chips have zero grams trans-fat and other 68% believe that the Brand A snacks contain high trans-fat.
+Only 44% Customers believe BRAND A Chips are made with natural oils and other 56% believe that the Brand A snacks are not made with Natural Oil.
+Processing Food Level ->  75% people have rated Level of Processing <5 (out of 10) and believe that the Brand A snacks are highly processed.
+Environmentally Responsible -> Only 44% people have rated Environmentally Responsible Rating >5 (out of 10) thus rest 56% believe  that the Brand A snacks are not Environmentally Responsible.
+
+Recommendations - 
+
+Food that is not made using Natural Oil, that is highly processed, and has high trans-fat may lead to increase in Cholesterol (Bad Cholesterol) level. This increase in Cholesterol 
+poses high risk of developing a Heart diseases, bad cholesterol level also increases chances of developing Type 2 Diabetes. People now a days are well aware of 
+all such insights with the help of internet, social media etc. Thus, Brand A should try to find the root cause of people'e bad perception despite being percieved as a product
+which uses Farm Grown Ingredients. 
+Brand A should inspect its manufacturing procedure and try to correct any irregularities in quality, if any, come up with products with minimal processing, and low trans-fat. 
+Brand A should adopt a new marketing strategy to spread awareness about its products and nutrition.
